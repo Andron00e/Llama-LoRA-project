@@ -6,3 +6,4 @@
   *
 
 ## Llama-LoRA-Orca
+You can see some details in my hf repo [Open-Llama-3B-LoRA-OpenOrca](https://huggingface.co/Andron00e/Open-Llama-3B-LoRA-OpenOrca)
