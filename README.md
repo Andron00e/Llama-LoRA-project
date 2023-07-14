@@ -7,3 +7,15 @@
 
 ## Llama-LoRA-Orca
 You can see some details in my hf repo [Open-Llama-3B-LoRA-OpenOrca](https://huggingface.co/Andron00e/Open-Llama-3B-LoRA-OpenOrca)
+
+
+## Citation
+```bibtex
+@software{openlm2023openllama,
+  author = {Geng, Xinyang and Liu, Hao},
+  title = {OpenLLaMA: An Open Reproduction of LLaMA},
+  month = May,
+  year = 2023,
+  url = {https://github.com/openlm-research/open_llama}
+}
+```
