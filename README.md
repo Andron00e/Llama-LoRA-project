@@ -29,7 +29,12 @@ Unfortunately an example of this model wouldn't be given, but there are some amu
 |         |       |acc_norm|0.6377|±  |0.0048|
 
 
-* Fine-tuned on ...
+* Fine-tuned on mixed dataset (one part – Orca, second part – custom dataset)
+
+|  Task   |Version| Metric |Value |   |Stderr|
+|---------|------:|--------|-----:|---|-----:|
+|hellaswag|      0|acc     |0..4618|±  |0.0050|
+|         |       |acc_norm|0.6019|±  |0.0049|
 
 
 * Fine-tuned on "wmt19", 'ru-en' dataset
@@ -38,6 +43,8 @@ Unfortunately an example of this model wouldn't be given, but there are some amu
 |---------|------:|--------|-----:|---|-----:|
 |hellaswag|      0|acc     |0..4817|±  |0.0050|
 |         |       |acc_norm|0.6362|±  |0.0048|
+
+
 ## Citation
 ```bibtex
 @software{openlm2023openllama,
