@@ -33,7 +33,7 @@ Unfortunately an example of this model wouldn't be given, but there are some amu
 
 |  Task   |Version| Metric |Value |   |Stderr|
 |---------|------:|--------|-----:|---|-----:|
-|hellaswag|      0|acc     |0..4618|±  |0.0050|
+|hellaswag|      0|acc     |0.4618|±  |0.0050|
 |         |       |acc_norm|0.6019|±  |0.0049|
 
 
