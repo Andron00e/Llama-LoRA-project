@@ -28,6 +28,16 @@ Unfortunately an example of this model wouldn't be given, but there are some amu
 |hellaswag|      0|acc     |0.4818|±  |0.0050|
 |         |       |acc_norm|0.6377|±  |0.0048|
 
+
+* Fine-tuned on ...
+
+
+* Fine-tuned on "wmt19", 'ru-en' dataset
+
+|  Task   |Version| Metric |Value |   |Stderr|
+|---------|------:|--------|-----:|---|-----:|
+|hellaswag|      0|acc     |0..4817|±  |0.0050|
+|         |       |acc_norm|0.6362|±  |0.0048|
 ## Citation
 ```bibtex
 @software{openlm2023openllama,
@@ -64,5 +74,13 @@ Unfortunately an example of this model wouldn't be given, but there are some amu
   version      = {v0.0.1},
   doi          = {10.5281/zenodo.5371628},
   url          = {https://doi.org/10.5281/zenodo.5371628}
+}
+```
+```bibtex
+@inproceedings{...,
+  year={2020},
+  title={Facebook FAIR's WMT19 News Translation Task Submission},
+  author={Ng, Nathan and Yee, Kyra and Baevski, Alexei and Ott, Myle and Auli, Michael and Edunov, Sergey},
+  booktitle={Proc. of WMT},
 }
 ```
